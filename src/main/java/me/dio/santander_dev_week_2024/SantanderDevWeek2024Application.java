@@ -20,7 +20,11 @@ import io.swagger.v3.oas.annotations.servers.Server;
  * @author WallissonAlv
  * */
 
-@OpenAPIDefinition(servers = { @Server (url = "/", description = "Default Server URL")})
+@OpenAPIDefinition(
+		  servers = {
+		    @Server(url = "/myapp/", description = "Default Server URL")
+		  }
+		)
 @SpringBootApplication
 public class SantanderDevWeek2024Application {
 
