@@ -10,3 +10,6 @@ spring:
     properties:
       hibernate:
         dialect: org.hibernate.dialect.PostgreSQLDialect
+  springdoc:
+    swagger-ui:
+    url: https://santander-dev-week-2024-production-f022.up.railway.app
