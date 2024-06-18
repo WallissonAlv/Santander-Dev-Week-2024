@@ -11,7 +11,5 @@ spring:
       hibernate:
         dialect: org.hibernate.dialect.PostgreSQLDialect
   springdoc:
-    openapi-ui:
-      path: /swagger-ui/index.html
     swagger-ui:
-      url: https://santander-dev-week-2024-production-f022.up.railway.app/v3/api-docs
+      url: https://santander-dev-week-2024-production-f022.up.railway.app
