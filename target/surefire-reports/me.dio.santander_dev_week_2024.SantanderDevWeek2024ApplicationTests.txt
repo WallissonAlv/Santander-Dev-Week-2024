@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: me.dio.santander_dev_week_2024.SantanderDevWeek2024ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 44.34 s -- in me.dio.santander_dev_week_2024.SantanderDevWeek2024ApplicationTests

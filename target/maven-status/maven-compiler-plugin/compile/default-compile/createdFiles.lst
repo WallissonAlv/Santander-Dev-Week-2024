@@ -1,0 +1,11 @@
+me\dio\santander_dev_week_2024\domain\model\User.class
+me\dio\santander_dev_week_2024\domain\repository\UserRepository.class
+me\dio\santander_dev_week_2024\domain\model\Account.class
+me\dio\santander_dev_week_2024\SantanderDevWeek2024Application.class
+me\dio\santander_dev_week_2024\service\UserService.class
+me\dio\santander_dev_week_2024\controller\UserController.class
+me\dio\santander_dev_week_2024\domain\model\News.class
+me\dio\santander_dev_week_2024\domain\model\Card.class
+me\dio\santander_dev_week_2024\domain\model\BaseItem.class
+me\dio\santander_dev_week_2024\domain\model\Feature.class
+me\dio\santander_dev_week_2024\service\impl\UserServiceImpl.class
